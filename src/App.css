@@ -1,0 +1,45 @@
+.casilla {
+  height: 60px;
+  width: 60px;
+  font-size: 18px;
+  border-radius: 7px;
+  font-weight: 600;
+  background-color: #ffffcc;
+  border-color: #ffff33;
+  margin-right: 3px;
+  
+}
+.casillaSeleccionada {
+  color: black;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 60px;
+  font-size: 18px;
+  border-radius: 7px;
+  font-weight: 600;
+  background-color: #3399ff;
+  border: #0066cc 2px solid;
+  margin-right: 3px;
+}
+
+.block-casillas-sel {
+  margin-top: 50px;
+  display: flex;
+}
+.resultado {
+  font-size: 40px;
+  margin-bottom: 50px;
+  width: 100px;
+}
+
+.buscar{
+  font-size: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+
